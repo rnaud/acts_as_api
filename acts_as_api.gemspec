@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.name        = "acts_as_api"
   s.version     = ActsAsApi::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["Christian Bäuerlein"]
+  s.authors     = ["Christian Bauerlein"]
   s.email       = ["christian@ffwdme.com"]
   s.homepage    = "https://github.com/fabrik42/acts_as_api"
   s.summary     = %q{Makes creating XML/JSON responses in Rails 3 easy and fun.}
